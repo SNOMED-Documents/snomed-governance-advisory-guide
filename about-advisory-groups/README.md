@@ -66,7 +66,6 @@ The member-based nomination process is used when SNOMED International seeks to w
 The following Advisory Groups use the member-based nomination process:
 
 * Content Managers AG
-* Tooling User AG
 * E-Learning AG
 
 ### **What Both Processes Have in Common**
