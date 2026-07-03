@@ -9,4 +9,5 @@
 * [About the Member Forum](about-the-member-forum.md)
 * [About Advisory Groups](about-advisory-groups/README.md)
   * [Advisory Groups](about-advisory-groups/advisory-groups.md)
+* [About Clinical Reference Groups](about-clinical-reference-groups.md)
 * [Resources](resources.md)
