@@ -73,3 +73,10 @@ Most positions are filled through the **Member-based nomination process**, with 
 
 For general information about joining any of the Advisory Groups, or to find out about upcoming vacancies, please contact [info@snomed.org](mailto:info@snomed.org).
 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-governance-advisory-guide&entry.670899847=Advisory%20Groups" class="button primary">Provide Feedback</a>

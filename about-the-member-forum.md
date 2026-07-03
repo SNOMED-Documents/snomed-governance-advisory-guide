@@ -302,3 +302,10 @@ Engagement Opportunities
 <a href="https://forums.snomed.org/" class="button primary" data-icon="discourse">SNOMED Forums</a>
 
 &#x20;_(Member Forum discussion forum access is provided via invitation.)_
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-governance-advisory-guide&entry.670899847=About%20the%20Member%20Forum" class="button primary">Provide Feedback</a>

@@ -50,3 +50,10 @@ Core organizational services, including management, finance, human resources, an
 
 
 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-governance-advisory-guide&entry.670899847=SNOMED%20International%20Teams" class="button primary">Provide Feedback</a>

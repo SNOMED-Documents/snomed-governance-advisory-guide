@@ -28,3 +28,10 @@ To participate in group discussions, which are hosted on [**SNOMED Forums**](htt
 
 Browse the [**Clinical Reference Group Directory**](https://conf.spaces.snomed.org/wiki/spaces/CP/pages/131532679) to find a group that matches your area of interest and start engaging today.
 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-governance-advisory-guide&entry.670899847=About%20Clinical%20Reference%20Groups" class="button primary">Provide Feedback</a>

@@ -234,3 +234,10 @@ Strong collaboration between Member Forum representatives and GA representatives
 <a href="https://www.google.com/url?q=https%3A%2F%2Fims.ihtsdotools.org%2F%23%2Fhome&#x26;sa=D&#x26;sntz=1&#x26;usg=AOvVaw3PGV-XTu6CdOyIgXPuu8Pz" class="button primary">SNOMED International Account</a>
 
 <a href="https://drive.google.com/file/d/1WmiFmrH6yQ2GQzn3GZNxOFOfZjuuTVc2/view?usp=sharing" class="button primary" data-icon="readme">General Assembly Manual</a>
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-governance-advisory-guide&entry.670899847=About%20the%20General%20Assembly" class="button primary">Provide Feedback</a>

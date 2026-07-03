@@ -21,3 +21,10 @@ SNOMED International operates through a governance structure that includes the G
 Together, these bodies support transparent governance and ensure that the organisation reflects the needs and priorities of its global Member community.
 
 <figure><img src="../.gitbook/assets/snomed_org_chart.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=snomed-governance-advisory-guide&entry.670899847=Governance%20Structure" class="button primary">Provide Feedback</a>
