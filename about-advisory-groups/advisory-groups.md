@@ -15,7 +15,7 @@ The Editorial AG provides expert advice and guidance on the editorial policies t
 This group is ideal for experienced terminologists or those with significant expertise in SNOMED CT content development and maintenance.
 
 **How to join**\
-Membership is through the **expert nomination process**. Positions are advertised openly and selection is based on a skills matrix. Contact Corporate Services for more information on upcoming vacancies.
+Membership is through the **expert nomination process**. Positions are advertised openly and selection is based on a skills matrix.
 
 ***
 
@@ -28,7 +28,7 @@ The Modeling AG ensures SNOMED International has access to the latest thinking o
 This group welcomes experts from clinical domains, logic and science, information modeling, and the software vendor community.
 
 **How to join**\
-Membership is through the **expert nomination process** and is skills-based. If you have expertise in any of the domains above, look out for advertised vacancies or contact Corporate Services to express your interest.
+Membership is through the **expert nomination process** and is skills-based. If you have expertise in any of the domains above, look out for advertised vacancies.
 
 ***
 
@@ -41,7 +41,7 @@ The Terminology Release AG advises on the standards, processes, and documentatio
 This group is well suited to those with experience in terminology release management, software development, or standards related to SNOMED CT distribution.
 
 **How to join**\
-Membership is through the **expert nomination process**. Contact Corporate Services for information on how to apply when positions become available.
+Membership is through the **expert nomination process**. If you have expertise in any of the domains above, look out for advertised vacancies.
 
 ***
 
@@ -54,7 +54,7 @@ The Content Managers AG (CMAG) is a collaborative forum where representatives fr
 This group is open to representatives from all Member countries, particularly those involved in national SNOMED CT content management or extension development. It is a great entry point for getting involved in shaping SNOMED CT content at both a national and international level.
 
 **How to join**\
-Each Member country can nominate a representative through their **Member Forum representative**. Speak to your MF representative to find out more about nominating someone from your country.
+Each Member country can nominate a representative through their **Member Forum representative**. Speak to your [MF representative](https://www.snomed.org/member-forum) to find out more about nominating someone from your country.
 
 ***
 
@@ -67,8 +67,9 @@ The E-Learning AG shapes the development and delivery of SNOMED International's 
 This group is ideal for those with an interest in education, training, and knowledge development related to SNOMED CT. It is a great opportunity to influence how SNOMED CT education is delivered globally and to support learning initiatives in your own country.
 
 **How to join**\
-Most positions are filled through the **Member-based nomination process**, with Member countries nominating representatives. Contact your MF representative to find out how to get involved.
+Most positions are filled through the **Member-based nomination process**, with Member countries nominating representatives. Contact your [MF representative](https://www.snomed.org/member-forum) to find out how to get involved.
 
 ***
 
-For general information about joining any of the Advisory Groups, or to find out about upcoming vacancies, please contact info@snomed.org.
+For general information about joining any of the Advisory Groups, or to find out about upcoming vacancies, please contact [info@snomed.org](mailto:info@snomed.org).
+
